@@ -1,4 +1,4 @@
-<h1>Ensemble Management API Server ensembleapi-2021</h1>
+<h1>Ensemble Management API Server ensembleapi</h1>
 <?php
 $host = 'localhost';
 $user = 'root';
